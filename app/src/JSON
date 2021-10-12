@@ -1,0 +1,33 @@
+    //   {
+    //     "id" : "1001",
+    //     "vendor" : "LG",
+    //     "pdt" : "Television",
+    //     "date" : "13-02-2021",
+    //     "amount" : "20000",
+    //     "e-mail" : "abcd@example.com"
+
+
+    //   },
+
+    //   {
+    //     "id" : "1002",
+    //     "vendor" : "TATA",
+    //     "pdt" : "fridge",
+    //     "date" : "15-09-2021 ",
+    //     "amount" : "65000",
+    //     "e-mail" : "efg@example.com"
+
+
+    //   },
+
+    //   {
+    //     "id" : "1003",
+    //     "vendor" : "Godrej",
+    //     "pdt" : "chair",
+    //     "date" : "23-04-2021",
+    //     "amount" : "50000",
+    //     "e-mail" : "123@example.com"
+
+
+    //   }
+    // ]
